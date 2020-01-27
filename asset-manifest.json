@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//udayakumarp2.github.io/rts-labs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "//udayakumarp2.github.io/rts-labs/static/js/main.5711b64c.chunk.js",
+    "main.js.map": "//udayakumarp2.github.io/rts-labs/static/js/main.5711b64c.chunk.js.map",
+    "runtime-main.js": "//udayakumarp2.github.io/rts-labs/static/js/runtime-main.c78b7db7.js",
+    "runtime-main.js.map": "//udayakumarp2.github.io/rts-labs/static/js/runtime-main.c78b7db7.js.map",
+    "static/js/2.3f5bc0a2.chunk.js": "//udayakumarp2.github.io/rts-labs/static/js/2.3f5bc0a2.chunk.js",
+    "static/js/2.3f5bc0a2.chunk.js.map": "//udayakumarp2.github.io/rts-labs/static/js/2.3f5bc0a2.chunk.js.map",
+    "index.html": "//udayakumarp2.github.io/rts-labs/index.html",
+    "precache-manifest.997f02ab2c18bc3b85d98312890eee64.js": "//udayakumarp2.github.io/rts-labs/precache-manifest.997f02ab2c18bc3b85d98312890eee64.js",
+    "service-worker.js": "//udayakumarp2.github.io/rts-labs/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "//udayakumarp2.github.io/rts-labs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.3f5bc0a2.chunk.js.LICENSE": "//udayakumarp2.github.io/rts-labs/static/js/2.3f5bc0a2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c78b7db7.js",
+    "static/js/2.3f5bc0a2.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5711b64c.chunk.js"
+  ]
+}
